@@ -25,4 +25,4 @@ I will create another tool or daemon service that will scan the notes and automa
 ## Design
 ### Architecture Diagram
 
-![architecture diagram](../graph/2019-10-18-personal-knowledge-base-1.png)
+![architecture diagram](/blog/graph/2019-10-18-personal-knowledge-base-1.png)
