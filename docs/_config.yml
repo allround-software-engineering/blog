@@ -16,14 +16,13 @@
 title: Lucid Software Engineering Blog
 email: todo@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Make software engineering process more rigorous,
-  predictable and, hopefully, more sanity-friendly.
+  Copyright (c) 2019 Lucid Software Engineering. All Rights Reserved.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: https://lucid-software-engineering.github.io
 repository: https://github.com/lucid-software-engineering/blog
 timezone: America/Los_Angeles
 twitter_username: twitter_todo
-github_username:  github_todo
+github_username:  lucid-software-engineering
 future: false
 
 # Build settings

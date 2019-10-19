@@ -14,4 +14,4 @@ How to elevate software engineers' productivity?
 
 How can we stay on top while everything is changing around us?
 
-Let's find answers together.
+Let's make software engineering process more rigorous, predictable and, hopefully, more sanity-friendly.
