@@ -21,3 +21,8 @@ I will create a command line tool for noting down things in a Git repo.
 ### Phase 2
 
 I will create another tool or daemon service that will scan the notes and automatically organize the notes.
+
+## Design
+### Architecture Diagram
+
+![architecture diagram](../graph/2019-10-18-personal-knowledge-base-1.png)

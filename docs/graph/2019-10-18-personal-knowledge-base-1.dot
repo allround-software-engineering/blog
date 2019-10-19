@@ -1,0 +1,25 @@
+# See https://www.graphviz.org/doc/info/shapes.html
+# For complete list of shapes
+
+# This the high-level architecture diagram for Personal Knowledge Base
+digraph ArchitectureDiagram {
+    graph [overlap = true, fontsize = 10]
+
+    # Boxes are processes
+    node [shape = box,
+        fontname = "Open Sans",
+        width = 2.5]
+    "Command line tool: note"; "Daemon: organize"
+
+    # Cylinder are Data Storage
+    node [shape = cylinder,
+        fixedsize = true,
+        fontname = "Open Sans"
+        width = 1.9]
+    Note; Knowledge
+
+    # Directed Edges
+    "Command line tool: note" -> Note
+    Note -> "Daemon: organize"
+    "Daemon: organize" -> Knowledge
+}
