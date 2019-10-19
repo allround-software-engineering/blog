@@ -24,6 +24,7 @@ repository: https://github.com/lucid-software-engineering/blog
 timezone: America/Los_Angeles
 twitter_username: twitter_todo
 github_username:  github_todo
+future: false
 
 # Build settings
 markdown: kramdown
