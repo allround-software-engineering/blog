@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Copyright (c) 2019 Allround Software Engineering. All Rights Reserved.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: https://allround-software-engineering.github.io
-repository: https://github.com/allround-software-engineering/blog
+repository: allround-software-engineering/blog
 timezone: America/Los_Angeles
 # twitter_username: twitter_todo
 github_username:  allround-software-engineering
@@ -30,6 +30,11 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+# Google Analytics
+google_analytics: UA-150902836-1
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
