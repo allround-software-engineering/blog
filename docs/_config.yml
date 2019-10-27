@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Lucid Software Engineering Blog
-email: lucid-software-engineering@googlegroups.com
+title: Allround Software Engineering Blog
+email: allround-software-engineering@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Copyright (c) 2019 Lucid Software Engineering. All Rights Reserved.
+  Copyright (c) 2019 Allround Software Engineering. All Rights Reserved.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: https://lucid-software-engineering.github.io
-repository: https://github.com/lucid-software-engineering/blog
+url: https://allround-software-engineering.github.io
+repository: https://github.com/allround-software-engineering/blog
 timezone: America/Los_Angeles
 # twitter_username: twitter_todo
-github_username:  lucid-software-engineering
+github_username:  allround-software-engineering
 future: false
 
 # Build settings

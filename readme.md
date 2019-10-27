@@ -1,6 +1,6 @@
 # Lucid Software Engineering Blog
 
-Public URL: https://lucid-software-engineering.github.io/blog/
+Public URL: https://allround-software-engineering.github.io/blog/
 
 ## Commands
 
