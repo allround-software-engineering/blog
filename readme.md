@@ -24,3 +24,4 @@ Github Page Supported:
 ## Jekyll Documentation
 
 - [Jekyll Variables](https://jekyllrb.com/docs/variables/)
+- [Jekyll Minima Theme](https://github.com/jekyll/minima)

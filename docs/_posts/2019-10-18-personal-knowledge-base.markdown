@@ -26,3 +26,10 @@ I will create another tool or daemon service that will scan the notes and automa
 ### Architecture Diagram
 
 ![architecture diagram](/blog/graph/2019-10-18-personal-knowledge-base-1.png)
+
+
+### Domain Model
+
+There should be many models, each with different focus.
+
+All models are wrong, some are useful. Therefore, we do not try to construct a complete and correct model.
