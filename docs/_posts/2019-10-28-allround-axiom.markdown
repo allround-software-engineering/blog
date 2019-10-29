@@ -15,6 +15,6 @@ published: false
 
 ## Assumptions
 
-- Humans are the main and primary contributor in software engieering. (true today, but may not be tomorrow)
-- Humans have very limited cognative capacity.
+- Humans are the main and primary contributor in software engineering. (true today, but may not be tomorrow)
+- Humans have very limited cognitive capacity.
 - Humans make mistakes.
