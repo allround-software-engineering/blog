@@ -47,10 +47,10 @@ if condition_a:
 
 ## The logic behind a balanced IF statement
 
-(My proposed) Axiom: "A piece of correct code is code that produce correct behavior in all possible situations."
+Looking at Software Engineering Axiom 2: "Software is correct if and only if it behaves correctly in all permitted input, environment and dependency responses."
 
 The two branches of an IF statement represents two situations.
 The THEN branch should produce the desired behavior where the condition is met.
 The ELSE branch should produce the desired behavior where the condition is NOT met.
 
-Therefore only if you have both branches in an IF statement, your code could even have a chance of producing correct behavior in all possible situations, and therefore, have a chance of being correct.
+Therefore only if you have logic handling both branches in an IF statement, your code could even have a chance of producing correct behavior in all possible situations, and therefore, have a chance of being correct.
