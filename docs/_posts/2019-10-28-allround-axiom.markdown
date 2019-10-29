@@ -15,6 +15,14 @@ published: false
 
 ## Assumptions
 
-- Humans are the main and primary contributor in software engineering. (true today, but may not be tomorrow)
-- Humans have very limited cognitive capacity.
-- Humans make mistakes.
+1. Humans are the main and primary contributor in software engineering. (true today, but may not be tomorrow)
+1. Humans have very limited cognitive capacity.
+1. Humans make mistakes.
+1. The software project being managed is beyond a single human's cognitive capacity to fully understand.
+1. Real world problem has finite complexity. Complexity can be defined as the minimum size of a program that can exhibit desired behavior. Correct software behavior for these problem, therefore, has finite complexity.
+1. Real world problem evolves (think of the addition of new features). Therefore, the software that reflects these real world problem also needs to evolve.
+
+## Conjectures
+
+1. Software Engineering is about complexity and evolution management within/among human organizations.
+1. Human knowledge management is the primary issue in software engineering.
