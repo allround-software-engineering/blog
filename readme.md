@@ -25,3 +25,4 @@ Github Page Supported:
 
 - [Jekyll Variables](https://jekyllrb.com/docs/variables/)
 - [Jekyll Minima Theme](https://github.com/jekyll/minima)
+- [Jekyll Minima Theme Content Styles](https://jekyll.github.io/minima/junk/2016/05/20/this-post-demonstrates-post-content-styles.html)
