@@ -42,7 +42,7 @@ Guess which department gets cut first during a downturn?
 Software Engineering is not programming as to orchestration (in the music field) is not playing an instrument.
 
 Programming is about knowing there are N ways to solve a problem.
-Software engineering is about considering all factors in a given project settings, and choosing a best way to solve the problem.
+Software engineering is about considering all factors in a given project settings, and choosing a good enough way to solve the problem.
 
 ## Good Programmer is not necessarily a Good Software Engineer
 Good Software Engineer is someone who understand and follows the practices, principles and even rules of a given engineering system, and could contribute under and to such system.
