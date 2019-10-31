@@ -16,10 +16,20 @@ digraph ArchitectureDiagram {
         fixedsize = true,
         fontname = "Open Sans"
         width = 1.9]
-    Note; Knowledge
+    Note; Knowledge ; Entity
+
+    # Oval are external objects
+    node [shape = oval,
+        fixedsize = true,
+        fontname = "Open Sans"
+        width = 1.9]
+    Internet;
 
     # Directed Edges
     "Command line tool: note" -> Note
     Note -> "Daemon: organize"
     "Daemon: organize" -> Knowledge
+    "Daemon: organize" -> Entity
+    Entity -> "Daemon: update" [dir="both"]
+    "Daemon: update"-> Internet [dir="both"]
 }
