@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Engineering Philosophy: What is an ID?"
+date:   2019-11-04 22:00:00 -0800
+categories: eng-philosophy id
+published: false
+---
+
+## What is an ID?
+
+### What is not a good ID?
+
+### Does Time Has ID?
+#### Does Instant has ID?
+#### Does Date has ID?
