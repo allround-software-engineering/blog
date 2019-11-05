@@ -1,0 +1,34 @@
+# See https://www.graphviz.org/doc/info/shapes.html
+# For complete list of shapes
+
+# This the high-level machine-learning diagram for Personal Knowledge Base
+digraph MlDesignDiagram {
+    graph [overlap = true, fontsize = 10]
+
+    # Boxes are processes
+    node [shape = box,
+        fontname = "Open Sans",
+        width = 2.5]
+    "Language Model"; "Action Model"; "Training" ; "Inference"
+
+    # Cylinder are Data Storage
+    node [shape = cylinder,
+        fixedsize = true,
+        fontname = "Open Sans"
+        width = 1.9]
+    Note; "Note Embedding" ; "Note Action" ; "Note Action Embedding" ; "Note Action Model"
+    Knowledge; "New Note"; "Proposed Action"
+
+    # Directed Edges
+    Note -> "Language Model" -> "Note Embedding"
+    "Note Action" -> "Action Model" -> "Note Action Embedding"
+
+    "Note Embedding" -> "Training"
+    "Note Action Embedding" -> "Training"
+    Knowledge -> "Training"
+    "Training" -> "Note Action Model"
+
+    "Note Action Model" -> "Inference"
+    "New Note" -> "Inference" -> "Proposed Action"
+
+}
