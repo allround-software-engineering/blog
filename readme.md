@@ -1,6 +1,6 @@
 # Allround Software Engineering Blog
 
-Public URL: https://allround-software-engineering.github.io/blog/
+Public URL: https://www.allroundsoft.com/
 
 ## Commands
 
