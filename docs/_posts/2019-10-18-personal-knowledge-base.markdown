@@ -35,7 +35,7 @@ The knowledge base will propose domain models (See Design/Domain Model) and allo
 ## Design
 ### Architecture Diagram
 
-![architecture diagram](/blog/graph/2019-10-18-personal-knowledge-base-1.png)
+![architecture diagram](/graph/2019-10-18-personal-knowledge-base-1.png)
 
 
 ### Domain Model
