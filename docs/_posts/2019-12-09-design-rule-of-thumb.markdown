@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Rule of thumb"
-date:   2019-12-09 23:00:00 -0700
+title:  "Software Design: Rule of thumb"
+date:   2019-12-09 23:02:00 -0700
 categories: allround software engineering rule-of-thumb
 published: true
 ---
