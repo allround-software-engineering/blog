@@ -16,7 +16,7 @@
 title: Allround Software Engineering Blog
 email: allround-software-engineering@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Copyright (c) 2019 Allround Software Engineering. All Rights Reserved.
+  Copyright (c) 2020 Allround Software Engineering. All Rights Reserved.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://www.allroundsoft.com
 repository: allround-software-engineering/blog
