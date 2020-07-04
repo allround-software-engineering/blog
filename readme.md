@@ -27,3 +27,10 @@ Github Page Supported:
 - [Jekyll Minima Theme](https://github.com/jekyll/minima)
 - [Jekyll Minima Theme Content Styles](https://jekyll.github.io/minima/junk/2016/05/20/this-post-demonstrates-post-content-styles.html)
   - [Raw Markdown](https://raw.githubusercontent.com/jekyll/minima/master/_posts/2016-05-20-this-post-demonstrates-post-content-styles.md)
+
+## MathJax
+MathJax is used to render math equations.
+
+- Official Website: https://www.mathjax.org/
+- Dynamic MathJax Preview: https://cdn.rawgit.com/mathjax/MathJax/2.7.1/test/sample-dynamic-2.html
+- Test page from this site: 2020-07-03-test-mathjax.markdown
