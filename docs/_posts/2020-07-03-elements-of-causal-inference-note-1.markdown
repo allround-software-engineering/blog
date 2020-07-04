@@ -30,11 +30,11 @@ We can answer these questions:
 
 1: Regression:
 
-$$ f(x) = \mathbb{E}[Y | X = x] $$
+$$ f(x) = \mathbb{E}[Y \mid X = x] $$
 
 2: Classification:
 
-$$f(x) = argmax _{y \in Y} P(Y = y | X = x)$, where $Y = {classes} $$
+$$f(x) = argmax _{y \in Y} P(Y = y \mid X = x), \text{where } Y = {classes} $$
 
 3: Density of $p_{X, Y} $ of $P_{X, Y} $
 
