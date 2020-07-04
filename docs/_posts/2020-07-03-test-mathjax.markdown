@@ -2,9 +2,9 @@
 layout: post
 mathjax: true
 title:  "Test MathJax"
-date:   2020-07-02 17:21:16 -0700
+date:   2020-07-03 17:21:16 -0700
 categories: allround test mathjax
-published: true
+published: false
 ---
 
 # Test MathJax
