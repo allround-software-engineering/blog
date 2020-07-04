@@ -13,7 +13,8 @@ Official Website: https://www.mathjax.org
 
 ## Example Equations
 
-The following is an equation rendered using MathJax
+The following is an equation "paragraph" rendered using MathJax
 
 $$ F = G \frac{m_1 m_2} {r^2} $$
 
+Equation can also be rendered inline like $r^2$
