@@ -28,11 +28,15 @@ i.i.d. can be violated if
 
 We can answer these questions:
 
-Regression: $ f(x) = \mathbb{E}[Y | X = x] $
+1: Regression:
 
-Classification: $f(x) = argmax _{y \in Y} P(Y = y | X = x)$, where $Y = {classes}$
+$$ f(x) = \mathbb{E}[Y | X = x] $$
 
-Density of $p_{X, Y} $ of $P_{X, Y} $
+2: Classification:
+
+$$f(x) = argmax _{y \in Y} P(Y = y | X = x)$, where $Y = {classes} $$
+
+3: Density of $p_{X, Y} $ of $P_{X, Y} $
 
 ## 1.2 Learning Theory
 
