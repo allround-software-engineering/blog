@@ -24,7 +24,7 @@ $p(a, t)$  can be decomposed into
 - $p(t \mid a)p(a)$
 
 If $A \rightarrow T$ is the correct causal structure, then
-- It is in principle possible to **perform a localized intervention** on $A$, in other words, to change $p(a)$ without changing $p(t|a)$
+- It is in principle possible to **perform a localized intervention** on $A$, in other words, to change $p(a)$ without changing $p(t \mid a)$
 - AND $p(a)$ and $p(t \mid a )$ are **autonomous, modular, or invariant** mechanisms or objects in the world.
 
 Note to self: The second property is exploited in transfer learning. See paper "A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms" Link to [my slides](/deep-learning/transfer-learning/2019/10/25/meta-transfer-objective.html)
