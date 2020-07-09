@@ -33,4 +33,5 @@ MathJax is used to render math equations.
 
 - Official Website: https://www.mathjax.org/
 - Dynamic MathJax Preview: https://cdn.rawgit.com/mathjax/MathJax/2.7.1/test/sample-dynamic-2.html
+- Latext equation online editor: https://latex.codecogs.com/legacy/eqneditor/editor.php
 - Test page from this site: 2020-07-03-test-mathjax.markdown

@@ -50,6 +50,8 @@ Causality can only be discussed when taking into account the notion of time. But
 
 Note to self: time is an intrinsic part of RL (Reinformcement Learning) problems. RL problems also allows agent to perform intervention. RL seems to be perfect framework for applying Causal learning.
 
+Note to self:  It would be nice if RL agent can learn causal relationship model of its action and environments.
+
 ### 1.4.2 Gene Perturbation
 
 In this example, observational data cannot tell apart of the actual underlying mechansim and cannot predict outcomes of an intervention ("phenotype after deletion of a gene" in this case).
