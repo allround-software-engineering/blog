@@ -27,10 +27,10 @@ Correlation does not imply causation.
 
 Principle 1.1 (Reichenbach’s common cause principle)
 
-If two random variables $X$ and $Y$ are statistically dependent ( $X  \not\!\perp\!\!\!\perp Y$ ),
+If two random variables $X$ and $Y$ are statistically dependent ( $X  \not \\!\perp\\!\\!\\! \perp Y$ ),
 then there exists a third variable $Z$ that causally influences both.
 (As a special case, $Z$ may coincide with either $X$ or $Y$.)
-Furthermore, this variable $Z$ screens $X$ and $Y$ from each other in the sense that given $Z$, they become independent, $X \!\perp\!\!\!\perp Y \mid Z$.
+Furthermore, this variable $Z$ screens $X$ and $Y$ from each other in the sense that given $Z$, they become independent, $X \\!\perp\\!\\!\\!\perp Y \mid Z$.
 
 Caveats: Dependences may also arise from (other than Reichenbach’s common cause principle)
 1. The random variables we observe are conditioned on others.
