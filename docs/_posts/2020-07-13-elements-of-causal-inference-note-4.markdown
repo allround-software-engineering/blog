@@ -31,7 +31,7 @@ $$ X := f_{X} (Y, N_{X} ) $$
 
 $$ Y := f_{Y} (X, N_{Y} ) $$
 
-Assuming $ N_{X}  \not\!\perp\!\!\!\perp N_{Y} $
+Assuming $ N_{X} \\!\perp\\!\\!\\!\perp N_{Y} $
 
 Equilibrium for X,Y need not always exist, and even if it does, it need not be the case that it can be found using the iteration
 In the linear case, this has been analyzed by Lacerda et al. [2008] and Hyttinen et al. [2012]; see also Lauritzen and Richardson [2002]. For further details see Remark 6.5
